@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/loginActivity">
+
+    <activity
+        android:id="@+id/loginActivity"
+        android:name="com.parse.starter.loginActivity"
+        android:label="activity_login"
+        tools:layout="@layout/activity_login" >
+        <action
+            android:id="@+id/action_loginActivity_to_mainUserFeedActivity"
+            app:destination="@id/mainUserFeedActivity" />
+    </activity>
+    <activity
+        android:id="@+id/mainUserFeedActivity"
+        android:name="com.parse.starter.mainUserFeedActivity"
+        android:label="activity_main_user_feed"
+        tools:layout="@layout/activity_main_user_feed" >
+        <action
+            android:id="@+id/action_mainUserFeedActivity_to_messageUserListActivity"
+            app:destination="@id/messageUserListActivity" />
+        <action
+            android:id="@+id/action_mainUserFeedActivity_to_postUploadActivity"
+            app:destination="@id/postUploadActivity" />
+        <action
+            android:id="@+id/action_mainUserFeedActivity_to_userListActivity"
+            app:destination="@id/userListActivity" />
+    </activity>
+    <activity
+        android:id="@+id/chatActivity"
+        android:name="com.parse.starter.chatActivity"
+        android:label="activity_chat"
+        tools:layout="@layout/activity_chat" />
+    <activity
+        android:id="@+id/messageUserListActivity"
+        android:name="com.parse.starter.messageUserListActivity"
+        android:label="activity_message_user_list"
+        tools:layout="@layout/activity_message_user_list" >
+        <action
+            android:id="@+id/action_messageUserListActivity_to_chatActivity"
+            app:destination="@id/chatActivity" />
+    </activity>
+    <activity
+        android:id="@+id/postUploadActivity"
+        android:name="com.parse.starter.postUploadActivity"
+        android:label="activity_post_upload"
+        tools:layout="@layout/activity_post_upload" />
+    <activity
+        android:id="@+id/userListActivity"
+        android:name="com.parse.starter.userListActivity"
+        android:label="activity_user_list"
+        tools:layout="@layout/activity_user_list" >
+        <action
+            android:id="@+id/action_userListActivity_to_singleUserFeedActivity"
+            app:destination="@id/singleUserFeedActivity" />
+    </activity>
+    <activity
+        android:id="@+id/singleUserFeedActivity"
+        android:name="com.parse.starter.singleUserFeedActivity"
+        android:label="activity_single_user_feed"
+        tools:layout="@layout/activity_single_user_feed" />
+</navigation>

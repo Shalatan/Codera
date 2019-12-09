@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.parse-community.ParseUI-Android:widget:0.0.4@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c037f4aa33444bf50580040ccdff2e8e/widget-0.0.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c037f4aa33444bf50580040ccdff2e8e/widget-0.0.4/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.parse-community.ParseUI-Android/widget/0.0.4/dde26c8b5925d325219c7fa1a3147bd9b59a1c44/widget-0.0.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.parse-community.ParseUI-Android/widget/0.0.4/9746631eb667e886c23f67c2c816aad3c1a097de/widget-0.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
