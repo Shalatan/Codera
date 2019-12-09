@@ -39,8 +39,8 @@ public class FragmentUserProfile extends Fragment {
     public void onActivityCreated(@Nullable Bundle savedInstanceState) {
         super.onActivityCreated(savedInstanceState);
 
-        View view = getView();
-        linlayout = view.findViewById(R.id.linLayout);
+        View v = getView();
+        linlayout = v.findViewById(R.id.linLayout);
         String username = ParseUser.getCurrentUser().getUsername();
 
         final ParseQuery<ParseObject> query = new ParseQuery<ParseObject>("Image");
