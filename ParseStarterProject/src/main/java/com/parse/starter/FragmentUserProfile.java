@@ -39,6 +39,7 @@ public class FragmentUserProfile extends Fragment {
     public void onActivityCreated(@Nullable Bundle savedInstanceState) {
         super.onActivityCreated(savedInstanceState);
 
+        
         View v = getView();
         linlayout = v.findViewById(R.id.linLayout);
         String username = ParseUser.getCurrentUser().getUsername();
