@@ -10,8 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0910c2c7-42bf-4b57-a6af-dd362dc992ce" name="Default" comment="Added Bottom Navigation Bar and more.">
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/FragmentUserProfile.java" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/FragmentUserProfile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/MFabButtons.java" beforeDir="false" afterPath="$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/MFabButtons.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="Parse-Server-Starter-Project.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -70,8 +69,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/FragmentUserProfile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="402">
-              <caret line="51" column="41" selection-start-line="51" selection-start-column="41" selection-end-line="51" selection-end-column="41" />
+            <state relative-caret-position="97">
+              <caret line="50" column="8" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
               <folding>
                 <element signature="e#1382#2800#0" expanded="true" />
                 <element signature="e#2799#2800#0" expanded="true" />
@@ -225,7 +224,7 @@
   <component name="NamedScopeManager">
     <scope name="Unnamed" pattern="" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1365" />
@@ -624,7 +623,28 @@
       <option name="project" value="LOCAL" />
       <updated>1575932553394</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added Bottom Navigation Bar and more.">
+      <created>1575932743807</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1575932743807</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added Bottom Navigation Bar and more.">
+      <created>1575932839811</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1575932839811</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added Bottom Navigation Bar and more.">
+      <created>1575932917078</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1575932917078</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TodoView">
@@ -638,9 +658,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1885906" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1885906" />
       <window_info id="Structure" order="1" weight="0.24899329" />
       <window_info id="Captures" order="2" sideWeight="0.50141644" side_tool="true" weight="0.3295302" />
       <window_info id="Designer" order="3" />
@@ -660,7 +679,7 @@
       <window_info anchor="bottom" id="Gradle Console" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Android Monitor" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50402683" side_tool="true" weight="0.51133144" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.5184136" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="10" visible="true" weight="0.5184136" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49932885" weight="0.3286119" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="bottom" id="Android Profiler" order="13" weight="0.3286119" />
@@ -961,8 +980,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/FragmentUserProfile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="51" column="41" selection-start-line="51" selection-start-column="41" selection-end-line="51" selection-end-column="41" />
+        <state relative-caret-position="97">
+          <caret line="50" column="8" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
           <folding>
             <element signature="e#1382#2800#0" expanded="true" />
             <element signature="e#2799#2800#0" expanded="true" />
