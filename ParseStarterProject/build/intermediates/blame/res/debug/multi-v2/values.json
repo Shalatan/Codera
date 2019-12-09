@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Android\\Projects\\InstaKiloGram\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "E:\\Android\\Projects\\Codera\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\shash\\.gradle\\caches\\transforms-2\\files-2.1\\be0dc949b31d6d38ce286e0e86951a1a\\play-services-tagmanager-12.0.1\\res\\values\\values.xml",
@@ -18,6 +18,25 @@
                         "startOffsets": "56278,56348,56432",
                         "endColumns": "69,83,67",
                         "endOffsets": "56343,56427,56495"
+                    }
+                },
+                {
+                    "source": "E:\\Android\\Projects\\Codera\\ParseStarterProject\\src\\main\\res\\values\\preloaded_fonts.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "155"
+                    },
+                    "to": {
+                        "startLines": "25",
+                        "startColumns": "4",
+                        "startOffsets": "4134",
+                        "endLines": "27",
+                        "endColumns": "12",
+                        "endOffsets": "4234"
                     }
                 },
                 {
@@ -59,7 +78,7 @@
                     }
                 },
                 {
-                    "source": "E:\\Android\\Projects\\InstaKiloGram\\ParseStarterProject\\src\\main\\res\\values\\dimens.xml",
+                    "source": "E:\\Android\\Projects\\Codera\\ParseStarterProject\\src\\main\\res\\values\\dimens.xml",
                     "from": {
                         "startLines": "10,11,12",
                         "startColumns": "4,4,4",
@@ -109,23 +128,6 @@
                         "startOffsets": "52738",
                         "endColumns": "81",
                         "endOffsets": "52815"
-                    }
-                },
-                {
-                    "source": "E:\\Android\\Projects\\InstaKiloGram\\ParseStarterProject\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "15,12,14,9,10,17,16,18",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "605,492,552,369,430,711,658,774",
-                        "endColumns": "52,58,52,60,60,62,52,66",
-                        "endOffsets": "653,546,600,425,486,769,706,836"
-                    },
-                    "to": {
-                        "startLines": "706,707,775,801,802,822,823,824",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "46594,46647,52902,54735,54796,56500,56563,56616",
-                        "endColumns": "52,58,52,60,60,62,52,66",
-                        "endOffsets": "46642,46701,52950,54791,54852,56558,56611,56678"
                     }
                 },
                 {
@@ -201,25 +203,6 @@
                     }
                 },
                 {
-                    "source": "E:\\Android\\Projects\\InstaKiloGram\\ParseStarterProject\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "11,20,15,22",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "369,651,500,743",
-                        "endLines": "13,20,18,22",
-                        "endColumns": "12,90,12,80",
-                        "endOffsets": "494,737,645,819"
-                    },
-                    "to": {
-                        "startLines": "835,838,839,843",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "57477,57607,57697,57847",
-                        "endLines": "837,838,842,843",
-                        "endColumns": "12,89,12,79",
-                        "endOffsets": "57602,57692,57842,57922"
-                    }
-                },
-                {
                     "source": "C:\\Users\\shash\\.gradle\\caches\\transforms-2\\files-2.1\\2f9ffac3f9aa7c3da9b2ea0a60bff798\\coordinatorlayout-28.0.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,102,3,13",
@@ -236,6 +219,23 @@
                         "endLines": "51,3340,4262,4351",
                         "endColumns": "60,12,24,24",
                         "endOffsets": "5419,223157,278268,283479"
+                    }
+                },
+                {
+                    "source": "E:\\Android\\Projects\\Codera\\ParseStarterProject\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "15,12,14,9,10,17,16,18",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "605,492,552,369,430,711,658,774",
+                        "endColumns": "52,58,52,60,60,62,52,66",
+                        "endOffsets": "653,546,600,425,486,769,706,836"
+                    },
+                    "to": {
+                        "startLines": "706,707,775,801,802,822,823,824",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "46594,46647,52902,54735,54796,56500,56563,56616",
+                        "endColumns": "52,58,52,60,60,62,52,66",
+                        "endOffsets": "46642,46701,52950,54791,54852,56558,56611,56678"
                     }
                 },
                 {
@@ -569,41 +569,22 @@
                     }
                 },
                 {
-                    "source": "E:\\Android\\Projects\\InstaKiloGram\\ParseStarterProject\\src\\main\\res\\values\\font_certs.xml",
+                    "source": "E:\\Android\\Projects\\Codera\\ParseStarterProject\\src\\main\\res\\values\\styles.xml",
                     "from": {
-                        "startLines": "2,6,11",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "55,257,1982",
-                        "endLines": "5,10,15",
-                        "endColumns": "12,19,19",
-                        "endOffsets": "252,1977,3567"
+                        "startLines": "11,20,15,22",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "369,651,500,743",
+                        "endLines": "13,20,18,22",
+                        "endColumns": "12,90,12,80",
+                        "endOffsets": "494,737,645,819"
                     },
                     "to": {
-                        "startLines": "11,15,20",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "617,819,2544",
-                        "endLines": "14,19,24",
-                        "endColumns": "12,19,19",
-                        "endOffsets": "814,2539,4129"
-                    }
-                },
-                {
-                    "source": "E:\\Android\\Projects\\InstaKiloGram\\ParseStarterProject\\src\\main\\res\\values\\preloaded_fonts.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "4",
-                        "endColumns": "12",
-                        "endOffsets": "155"
-                    },
-                    "to": {
-                        "startLines": "25",
-                        "startColumns": "4",
-                        "startOffsets": "4134",
-                        "endLines": "27",
-                        "endColumns": "12",
-                        "endOffsets": "4234"
+                        "startLines": "835,838,839,843",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "57477,57607,57697,57847",
+                        "endLines": "837,838,842,843",
+                        "endColumns": "12,89,12,79",
+                        "endOffsets": "57602,57692,57842,57922"
                     }
                 },
                 {
@@ -621,6 +602,25 @@
                         "startOffsets": "52820",
                         "endColumns": "81",
                         "endOffsets": "52897"
+                    }
+                },
+                {
+                    "source": "E:\\Android\\Projects\\Codera\\ParseStarterProject\\src\\main\\res\\values\\font_certs.xml",
+                    "from": {
+                        "startLines": "2,6,11",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,257,1982",
+                        "endLines": "5,10,15",
+                        "endColumns": "12,19,19",
+                        "endOffsets": "252,1977,3567"
+                    },
+                    "to": {
+                        "startLines": "11,15,20",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "617,819,2544",
+                        "endLines": "14,19,24",
+                        "endColumns": "12,19,19",
+                        "endOffsets": "814,2539,4129"
                     }
                 }
             ]

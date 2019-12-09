@@ -1,4 +1,4 @@
-# Referenced at E:\Android\Projects\InstaKiloGram\ParseStarterProject\build\intermediates\merged_manifests\debug\AndroidManifest.xml:30
+# Referenced at E:\Android\Projects\Codera\ParseStarterProject\build\intermediates\merged_manifests\debug\AndroidManifest.xml:30
 -keep class android.support.v4.app.CoreComponentFactory { <init>(); }
-# Referenced at E:\Android\Projects\InstaKiloGram\ParseStarterProject\build\intermediates\merged_manifests\debug\AndroidManifest.xml:30
+# Referenced at E:\Android\Projects\Codera\ParseStarterProject\build\intermediates\merged_manifests\debug\AndroidManifest.xml:30
 -keep class com.parse.starter.StarterApplication { <init>(); }

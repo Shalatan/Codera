@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/InstaKiloGram.iml" filepath="$PROJECT_DIR$/InstaKiloGram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codera.iml" filepath="$PROJECT_DIR$/Codera.iml" />
       <module fileurl="file://$PROJECT_DIR$/ParseStarterProject/ParseStarterProject.iml" filepath="$PROJECT_DIR$/ParseStarterProject/ParseStarterProject.iml" />
     </modules>
   </component>

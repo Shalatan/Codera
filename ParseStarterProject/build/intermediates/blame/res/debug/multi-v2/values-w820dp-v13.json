@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Android\\Projects\\InstaKiloGram\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+            "outputFile": "E:\\Android\\Projects\\Codera\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
             "map": [
                 {
-                    "source": "E:\\Android\\Projects\\InstaKiloGram\\ParseStarterProject\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "source": "E:\\Android\\Projects\\Codera\\ParseStarterProject\\src\\main\\res\\values-w820dp\\dimens.xml",
                     "from": {
                         "startLines": "12",
                         "startColumns": "4",

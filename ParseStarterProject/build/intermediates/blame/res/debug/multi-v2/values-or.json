@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Android\\Projects\\InstaKiloGram\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-or\\values-or.xml",
+            "outputFile": "E:\\Android\\Projects\\Codera\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-or\\values-or.xml",
             "map": [
                 {
                     "source": "C:\\Users\\shash\\.gradle\\caches\\transforms-2\\files-2.1\\174ba63f4c3ed7afb3585a8911db3228\\navigation-ui-1.0.0\\res\\values-or\\values-or.xml",

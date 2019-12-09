@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Android\\Projects\\InstaKiloGram\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+            "outputFile": "E:\\Android\\Projects\\Codera\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
             "map": [
                 {
                     "source": "C:\\Users\\shash\\.gradle\\caches\\transforms-2\\files-2.1\\26df0f8813a13404e327c780b3b81904\\support-media-compat-26.1.0\\res\\values-v21\\values-v21.xml",
