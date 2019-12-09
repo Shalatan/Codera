@@ -45,7 +45,9 @@ public class FragmentUserProfile extends Fragment {
 
         final ParseQuery<ParseObject> query = new ParseQuery<ParseObject>("Image");
         query.whereEqualTo("username",username);
+
         query.orderByDescending("createdAt");
+
         query.findInBackground(new FindCallback<ParseObject>() {
             @Override
             public void done(List<ParseObject> objects, ParseException e) {
