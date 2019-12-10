@@ -748,6 +748,7 @@ color background_floating_material_dark
 color background_floating_material_light
 color background_material_dark
 color background_material_light
+color bottomNavBarPrimary
 color bright_foreground_disabled_material_dark
 color bright_foreground_disabled_material_light
 color bright_foreground_inverse_material_dark
@@ -1237,6 +1238,7 @@ drawable abc_vector_test
 drawable avd_hide_password
 drawable avd_show_password
 drawable bottom_nav_home_24dp
+drawable bottom_nav_like_24dp
 drawable bottom_nav_search_24dp
 drawable bottom_nav_user_24dp
 drawable camera
@@ -1837,6 +1839,7 @@ id nav_controller_view_tag
 id nav_favourite
 id nav_graph
 id nav_home
+id nav_like
 id nav_search
 id navigation_header_container
 id never

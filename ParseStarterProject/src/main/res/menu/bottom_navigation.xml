@@ -3,17 +3,22 @@
     <item
         android:id="@+id/nav_home"
         android:icon="@drawable/bottom_nav_home_24dp"
-        android:iconTint="@android:color/holo_green_light"
+        android:iconTint="@color/bottomNavBarPrimary"
         android:title="Home"></item>
     <item
         android:id="@+id/nav_search"
         android:icon="@drawable/bottom_nav_search_24dp"
-        android:iconTint="@android:color/holo_green_light"
+        android:iconTint="@color/bottomNavBarPrimary"
         android:title="Search"></item>
+    <item
+        android:id="@+id/nav_like"
+        android:icon="@drawable/bottom_nav_like_24dp"
+        android:iconTint="@color/bottomNavBarPrimary"
+        android:title="Like"></item>
     <item
         android:id="@+id/nav_favourite"
         android:icon="@drawable/bottom_nav_user_24dp"
-        android:iconTint="@android:color/holo_green_light"
+        android:iconTint="@color/bottomNavBarPrimary"
         android:iconTintMode="add"
         android:title="User"></item>
 </menu>
